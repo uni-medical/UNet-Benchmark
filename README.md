@@ -60,8 +60,8 @@ Ensure the `nnUNet_preprocessed` environment variable is properly configured bef
 ## Acknowledgements
 
 We are grateful to:
-- The nnU-Net team for the open-source codebase this project builds upon.
-- The contributors of the 42 public datasets that enable open and reproducible research.
+- The [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) team for the open-source codebase this project builds upon.
+- The contributors of the 42 public [datasets](https://www.nature.com/articles/s41598-025-15617-1/tables/2) that enable open and reproducible research.
 - Former members of the [GMAI](https://github.com/uni-medical) team who contributed to this project.
 
 
