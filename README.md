@@ -27,7 +27,7 @@ Ensure the `nnUNet_preprocessed` environment variable is properly configured bef
 
 1. **Plan and preprocess your dataset** (standard nnU-Net workflow):
    ```bash
-   nnUNet_plan_and_preprocess -d DATASET_ID
+   nnUNetv2_plan_and_preprocess -d DATASET_ID
    ```
 
 2. **Add S/D/W variants to the plans**:
